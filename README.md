@@ -7,5 +7,8 @@ This repository hosts the Privacy Policies and Terms & Conditions for apps publi
 ### Postcard Nepal
 - **Privacy Policy:** https://devcalapps-glitch.github.io/longestchariot-privacy/postcard-nepal.html
 
+### Dandi Biyo
+- **Privacy Policy:** https://devcalapps-glitch.github.io/longestchariot-privacy/dandi-biyo.html
+
 ## Contact
 For questions or support, contact [contact@longestchariot.com](mailto:contact@longestchariot.com).
